@@ -67,6 +67,6 @@ de botella era el bucle interno de verificacion de divisores.
 
 Codigo subido a GitHub (ver `PASOS_GIT.md` para el detalle):
 
-`https://github.com/USUARIO/optimizacion-primos`  *(reemplazar USUARIO)*
+`https://github.com/eljuandaruiz/optimizacion-primos`
 
 Rama de la optimizacion: **optimizacion-codigo**
