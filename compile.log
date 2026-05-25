@@ -1,0 +1,327 @@
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 15 June 2025. Version 4.87.
+No existing .aux file, so I'll make a simple one, and require run of *latex.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'Initial setup'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -interaction=nonstopmode -halt-on-error -recorder  "Ruiz_Juan_CulturaDigitalYSociedad_B.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(Ruiz_Juan_CulturaDigitalYSociedad_B.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(D:\andrea\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(D:\andrea\tex/latex/base\size11.clo)) (D:\andrea\tex/latex/base\inputenc.sty)
+(D:\andrea\tex/latex/base\fontenc.sty) (D:\andrea\tex/latex/lm\lmodern.sty)
+(D:\andrea\tex/generic/babel\babel.sty
+(D:\andrea\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\andrea\tex/latex/arabi\bblopts.cfg)
+(D:\andrea\tex/generic/babel/locale/es\babel-spanish.tex)
+(D:\andrea\tex/latex/babel-spanish\spanish.ldf))
+(D:\andrea\tex/latex/geometry\geometry.sty
+(D:\andrea\tex/latex/graphics\keyval.sty)
+(D:\andrea\tex/generic/iftex\ifvtex.sty (D:\andrea\tex/generic/iftex\iftex.sty)
+) (D:\andrea\tex/latex/geometry\geometry.cfg))
+(D:\andrea\tex/latex/graphics\graphicx.sty
+(D:\andrea\tex/latex/graphics\graphics.sty
+(D:\andrea\tex/latex/graphics\trig.sty)
+(D:\andrea\tex/latex/graphics-cfg\graphics.cfg)
+(D:\andrea\tex/latex/graphics-def\pdftex.def)))
+(D:\andrea\tex/latex/tools\array.sty) (D:\andrea\tex/latex/tools\tabularx.sty)
+(D:\andrea\tex/latex/xcolor\xcolor.sty
+(D:\andrea\tex/latex/graphics-cfg\color.cfg)
+(D:\andrea\tex/latex/graphics\mathcolor.ltx))
+(D:\andrea\tex/latex/colortbl\colortbl.sty)
+(D:\andrea\tex/latex/titlesec\titlesec.sty)
+(D:\andrea\tex/latex/fancyhdr\fancyhdr.sty)
+(D:\andrea\tex/latex/setspace\setspace.sty)
+(D:\andrea\tex/latex/parskip\parskip.sty
+(D:\andrea\tex/latex/kvoptions\kvoptions.sty
+(D:\andrea\tex/generic/ltxcmds\ltxcmds.sty)
+(D:\andrea\tex/latex/kvsetkeys\kvsetkeys.sty))
+(D:\andrea\tex/latex/etoolbox\etoolbox.sty))
+(D:\andrea\tex/latex/hyperref\hyperref.sty
+(D:\andrea\tex/generic/kvdefinekeys\kvdefinekeys.sty)
+(D:\andrea\tex/generic/pdfescape\pdfescape.sty
+(D:\andrea\tex/generic/pdftexcmds\pdftexcmds.sty
+(D:\andrea\tex/generic/infwarerr\infwarerr.sty)))
+(D:\andrea\tex/latex/hycolor\hycolor.sty)
+(D:\andrea\tex/latex/hyperref\nameref.sty
+(D:\andrea\tex/latex/refcount\refcount.sty)
+(D:\andrea\tex/generic/gettitlestring\gettitlestring.sty))
+(D:\andrea\tex/generic/stringenc\stringenc.sty)
+(D:\andrea\tex/latex/hyperref\pd1enc.def)
+(D:\andrea\tex/generic/intcalc\intcalc.sty)
+(D:\andrea\tex/latex/hyperref\puenc.def) (D:\andrea\tex/latex/url\url.sty)
+(D:\andrea\tex/generic/bitset\bitset.sty
+(D:\andrea\tex/generic/bigintcalc\bigintcalc.sty)))
+(D:\andrea\tex/latex/hyperref\hpdftex.def
+(D:\andrea\tex/latex/rerunfilecheck\rerunfilecheck.sty
+(D:\andrea\tex/generic/uniquecounter\uniquecounter.sty)))
+(D:\andrea\tex/latex/listings\listings.sty
+(D:\andrea\tex/latex/listings\lstpatch.sty)
+(D:\andrea\tex/latex/listings\lstmisc.sty)
+(D:\andrea\tex/latex/listings\listings.cfg))
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(D:\andrea\tex/latex/mdframed\mdframed.sty
+(D:\andrea\tex/latex/l3packages/xparse\xparse.sty
+(D:\andrea\tex/latex/l3kernel\expl3.sty
+(D:\andrea\tex/latex/l3backend\l3backend-pdftex.def)))
+(D:\andrea\tex/latex/zref\zref-abspage.sty
+(D:\andrea\tex/latex/zref\zref-base.sty
+(D:\andrea\tex/generic/etexcmds\etexcmds.sty)
+(D:\andrea\tex/latex/auxhook\auxhook.sty)))
+(D:\andrea\tex/latex/needspace\needspace.sty)
+(D:\andrea\tex/latex/mdframed\md-frame-0.mdf))
+(D:\andrea\tex/latex/enumitem\enumitem.sty)
+(D:\andrea\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(D:\andrea\tex/latex/amsmath\amstext.sty
+(D:\andrea\tex/latex/amsmath\amsgen.sty))
+(D:\andrea\tex/latex/amsmath\amsbsy.sty)
+(D:\andrea\tex/latex/amsmath\amsopn.sty))
+(D:\andrea\tex/latex/amsfonts\amssymb.sty
+(D:\andrea\tex/latex/amsfonts\amsfonts.sty)) (D:\andrea\tex/latex/lm\t1lmr.fd)
+(Ruiz_Juan_CulturaDigitalYSociedad_B.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(D:\andrea\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (D:\andrea\tex/latex/epstopdf-pkg\epstopdf-base.sty
+(D:\andrea\tex/latex/00miktex\epstopdf-sys.cfg))
+Couldn't patch \ttl@straight@ii
+Couldn't patch \ttl@straight@ii
+(D:\andrea\tex/latex/lm\ot1lmr.fd) (D:\andrea\tex/latex/lm\omllmm.fd)
+(D:\andrea\tex/latex/lm\omslmsy.fd) (D:\andrea\tex/latex/lm\omxlmex.fd)
+(D:\andrea\tex/latex/amsfonts\umsa.fd) (D:\andrea\tex/latex/amsfonts\umsb.fd)
+[1{C:/Users/juano/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/andrea/f
+onts/enc/dvips/lm/lm-ec.enc}]
+No file Ruiz_Juan_CulturaDigitalYSociedad_B.toc.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 \tableofcontents\newpage
+                              [1] (D:\andrea\tex/latex/listings\lstlang1.sty)
+(D:\andrea\tex/latex/lm\t1lmtt.fd) (codigo_original.py)
+[2{D:/andrea/fonts/enc/dvips/lm/lm-rm.enc}{D:/andrea/fonts/enc/dvips/lm/lm-math
+it.enc}] (codigo_optimizado.py
+[3{D:/andrea/fonts/enc/dvips/lm/lm-mathsy.enc}])
+Overfull \hbox (11.1276pt too wide) in paragraph at lines 26--27
+\T1/lmr/bx/n/10.95 Rama de Git: \T1/lmtt/m/n/10.95 optimizacion-codigo\T1/lmr/m
+/n/10.95 . \T1/lmr/bx/n/10.95 Com-mit: \T1/lmtt/m/n/10.95 .[]ptimizacion: criba
+ con numpy, raiz cuadrada
+
+[4 <./grafico_comparativa_tiempos.png> <./grafico_distribucion_tiempos.png>]
+Overfull \hbox (0.38324pt too wide) in paragraph at lines 66--67
+\T1/lmr/bx/n/10.95 Repositorio GitHub: \T1/lmtt/m/n/10.95 https://github.com/US
+UARIO/optimizacion-primos \T1/lmr/m/n/10.95 (reemplazar \T1/lmtt/m/n/10.95 USUA
+RIO\T1/lmr/m/n/10.95 ;
+
+[5] (Ruiz_Juan_CulturaDigitalYSociedad_B.aux)
+
+Package rerunfilecheck Warning: File `Ruiz_Juan_CulturaDigitalYSociedad_B.out' 
+has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)<D:/andrea/fonts/type1/publ
+ic/lm/lmbx10.pfb><D:/andrea/fonts/type1/public/lm/lmbx12.pfb><D:/andrea/fonts/t
+ype1/public/lm/lmbxi10.pfb><D:/andrea/fonts/type1/public/lm/lmmi10.pfb><D:/andr
+ea/fonts/type1/public/lm/lmr10.pfb><D:/andrea/fonts/type1/public/lm/lmr12.pfb><
+D:/andrea/fonts/type1/public/lm/lmri10.pfb><D:/andrea/fonts/type1/public/lm/lmr
+i12.pfb><D:/andrea/fonts/type1/public/lm/lmsy10.pfb><D:/andrea/fonts/type1/publ
+ic/lm/lmtk10.pfb><D:/andrea/fonts/type1/public/lm/lmtt10.pfb><D:/andrea/fonts/t
+ype1/public/lm/lmtt8.pfb><D:/andrea/fonts/type1/public/lm/lmtt9.pfb>
+Output written on Ruiz_Juan_CulturaDigitalYSociedad_B.pdf (6 pages, 358268 byte
+s).
+Transcript written on Ruiz_Juan_CulturaDigitalYSociedad_B.log.
+Latexmk: Getting log file 'Ruiz_Juan_CulturaDigitalYSociedad_B.log'
+Latexmk: Examining 'Ruiz_Juan_CulturaDigitalYSociedad_B.fls'
+Latexmk: Examining 'Ruiz_Juan_CulturaDigitalYSociedad_B.log'
+Latexmk: Missing input file 'Ruiz_Juan_CulturaDigitalYSociedad_B.toc' message in .log file:
+  No file Ruiz_Juan_CulturaDigitalYSociedad_B.toc.
+Latexmk: References changed.
+Latexmk: Log file says output to 'Ruiz_Juan_CulturaDigitalYSociedad_B.pdf'
+Latexmk: Log file says output to 'Ruiz_Juan_CulturaDigitalYSociedad_B.pdf'
+Latexmk: Using bibtex to make bibliography file(s).
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  Ruiz_Juan_CulturaDigitalYSociedad_B.aux
+  Ruiz_Juan_CulturaDigitalYSociedad_B.out
+  Ruiz_Juan_CulturaDigitalYSociedad_B.toc
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -interaction=nonstopmode -halt-on-error -recorder  "Ruiz_Juan_CulturaDigitalYSociedad_B.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(Ruiz_Juan_CulturaDigitalYSociedad_B.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(D:\andrea\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(D:\andrea\tex/latex/base\size11.clo)) (D:\andrea\tex/latex/base\inputenc.sty)
+(D:\andrea\tex/latex/base\fontenc.sty) (D:\andrea\tex/latex/lm\lmodern.sty)
+(D:\andrea\tex/generic/babel\babel.sty
+(D:\andrea\tex/generic/babel\txtbabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\andrea\tex/latex/arabi\bblopts.cfg)
+(D:\andrea\tex/generic/babel/locale/es\babel-spanish.tex)
+(D:\andrea\tex/latex/babel-spanish\spanish.ldf))
+(D:\andrea\tex/latex/geometry\geometry.sty
+(D:\andrea\tex/latex/graphics\keyval.sty)
+(D:\andrea\tex/generic/iftex\ifvtex.sty (D:\andrea\tex/generic/iftex\iftex.sty)
+) (D:\andrea\tex/latex/geometry\geometry.cfg))
+(D:\andrea\tex/latex/graphics\graphicx.sty
+(D:\andrea\tex/latex/graphics\graphics.sty
+(D:\andrea\tex/latex/graphics\trig.sty)
+(D:\andrea\tex/latex/graphics-cfg\graphics.cfg)
+(D:\andrea\tex/latex/graphics-def\pdftex.def)))
+(D:\andrea\tex/latex/tools\array.sty) (D:\andrea\tex/latex/tools\tabularx.sty)
+(D:\andrea\tex/latex/xcolor\xcolor.sty
+(D:\andrea\tex/latex/graphics-cfg\color.cfg)
+(D:\andrea\tex/latex/graphics\mathcolor.ltx))
+(D:\andrea\tex/latex/colortbl\colortbl.sty)
+(D:\andrea\tex/latex/titlesec\titlesec.sty)
+(D:\andrea\tex/latex/fancyhdr\fancyhdr.sty)
+(D:\andrea\tex/latex/setspace\setspace.sty)
+(D:\andrea\tex/latex/parskip\parskip.sty
+(D:\andrea\tex/latex/kvoptions\kvoptions.sty
+(D:\andrea\tex/generic/ltxcmds\ltxcmds.sty)
+(D:\andrea\tex/latex/kvsetkeys\kvsetkeys.sty))
+(D:\andrea\tex/latex/etoolbox\etoolbox.sty))
+(D:\andrea\tex/latex/hyperref\hyperref.sty
+(D:\andrea\tex/generic/kvdefinekeys\kvdefinekeys.sty)
+(D:\andrea\tex/generic/pdfescape\pdfescape.sty
+(D:\andrea\tex/generic/pdftexcmds\pdftexcmds.sty
+(D:\andrea\tex/generic/infwarerr\infwarerr.sty)))
+(D:\andrea\tex/latex/hycolor\hycolor.sty)
+(D:\andrea\tex/latex/hyperref\nameref.sty
+(D:\andrea\tex/latex/refcount\refcount.sty)
+(D:\andrea\tex/generic/gettitlestring\gettitlestring.sty))
+(D:\andrea\tex/generic/stringenc\stringenc.sty)
+(D:\andrea\tex/latex/hyperref\pd1enc.def)
+(D:\andrea\tex/generic/intcalc\intcalc.sty)
+(D:\andrea\tex/latex/hyperref\puenc.def) (D:\andrea\tex/latex/url\url.sty)
+(D:\andrea\tex/generic/bitset\bitset.sty
+(D:\andrea\tex/generic/bigintcalc\bigintcalc.sty)))
+(D:\andrea\tex/latex/hyperref\hpdftex.def
+(D:\andrea\tex/latex/rerunfilecheck\rerunfilecheck.sty
+(D:\andrea\tex/generic/uniquecounter\uniquecounter.sty)))
+(D:\andrea\tex/latex/listings\listings.sty
+(D:\andrea\tex/latex/listings\lstpatch.sty)
+(D:\andrea\tex/latex/listings\lstmisc.sty)
+(D:\andrea\tex/latex/listings\listings.cfg))
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(D:\andrea\tex/latex/mdframed\mdframed.sty
+(D:\andrea\tex/latex/l3packages/xparse\xparse.sty
+(D:\andrea\tex/latex/l3kernel\expl3.sty
+(D:\andrea\tex/latex/l3backend\l3backend-pdftex.def)))
+(D:\andrea\tex/latex/zref\zref-abspage.sty
+(D:\andrea\tex/latex/zref\zref-base.sty
+(D:\andrea\tex/generic/etexcmds\etexcmds.sty)
+(D:\andrea\tex/latex/auxhook\auxhook.sty)))
+(D:\andrea\tex/latex/needspace\needspace.sty)
+(D:\andrea\tex/latex/mdframed\md-frame-0.mdf))
+(D:\andrea\tex/latex/enumitem\enumitem.sty)
+(D:\andrea\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(D:\andrea\tex/latex/amsmath\amstext.sty
+(D:\andrea\tex/latex/amsmath\amsgen.sty))
+(D:\andrea\tex/latex/amsmath\amsbsy.sty)
+(D:\andrea\tex/latex/amsmath\amsopn.sty))
+(D:\andrea\tex/latex/amsfonts\amssymb.sty
+(D:\andrea\tex/latex/amsfonts\amsfonts.sty)) (D:\andrea\tex/latex/lm\t1lmr.fd)
+(Ruiz_Juan_CulturaDigitalYSociedad_B.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+(D:\andrea\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (D:\andrea\tex/latex/epstopdf-pkg\epstopdf-base.sty
+(D:\andrea\tex/latex/00miktex\epstopdf-sys.cfg))
+Couldn't patch \ttl@straight@ii
+Couldn't patch \ttl@straight@ii
+(Ruiz_Juan_CulturaDigitalYSociedad_B.out)
+(Ruiz_Juan_CulturaDigitalYSociedad_B.out) (D:\andrea\tex/latex/lm\ot1lmr.fd)
+(D:\andrea\tex/latex/lm\omllmm.fd) (D:\andrea\tex/latex/lm\omslmsy.fd)
+(D:\andrea\tex/latex/lm\omxlmex.fd) (D:\andrea\tex/latex/amsfonts\umsa.fd)
+(D:\andrea\tex/latex/amsfonts\umsb.fd)
+[1{C:/Users/juano/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/andrea/f
+onts/enc/dvips/lm/lm-ec.enc}] (Ruiz_Juan_CulturaDigitalYSociedad_B.toc)
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 \tableofcontents\newpage
+                              [1] (D:\andrea\tex/latex/listings\lstlang1.sty)
+(D:\andrea\tex/latex/lm\t1lmtt.fd) (codigo_original.py)
+[2{D:/andrea/fonts/enc/dvips/lm/lm-rm.enc}{D:/andrea/fonts/enc/dvips/lm/lm-math
+it.enc}] (codigo_optimizado.py
+[3{D:/andrea/fonts/enc/dvips/lm/lm-mathsy.enc}])
+Overfull \hbox (11.1276pt too wide) in paragraph at lines 26--27
+\T1/lmr/bx/n/10.95 Rama de Git: \T1/lmtt/m/n/10.95 optimizacion-codigo\T1/lmr/m
+/n/10.95 . \T1/lmr/bx/n/10.95 Com-mit: \T1/lmtt/m/n/10.95 .[]ptimizacion: criba
+ con numpy, raiz cuadrada
+
+[4 <./grafico_comparativa_tiempos.png> <./grafico_distribucion_tiempos.png>]
+Overfull \hbox (0.38324pt too wide) in paragraph at lines 66--67
+\T1/lmr/bx/n/10.95 Repositorio GitHub: \T1/lmtt/m/n/10.95 https://github.com/US
+UARIO/optimizacion-primos \T1/lmr/m/n/10.95 (reemplazar \T1/lmtt/m/n/10.95 USUA
+RIO\T1/lmr/m/n/10.95 ;
+
+[5] (Ruiz_Juan_CulturaDigitalYSociedad_B.aux) )
+(see the transcript file for additional information)<D:/andrea/fonts/type1/publ
+ic/lm/lmbx10.pfb><D:/andrea/fonts/type1/public/lm/lmbx12.pfb><D:/andrea/fonts/t
+ype1/public/lm/lmbxi10.pfb><D:/andrea/fonts/type1/public/lm/lmmi10.pfb><D:/andr
+ea/fonts/type1/public/lm/lmr10.pfb><D:/andrea/fonts/type1/public/lm/lmr12.pfb><
+D:/andrea/fonts/type1/public/lm/lmri10.pfb><D:/andrea/fonts/type1/public/lm/lmr
+i12.pfb><D:/andrea/fonts/type1/public/lm/lmsy10.pfb><D:/andrea/fonts/type1/publ
+ic/lm/lmtk10.pfb><D:/andrea/fonts/type1/public/lm/lmtt10.pfb><D:/andrea/fonts/t
+ype1/public/lm/lmtt8.pfb><D:/andrea/fonts/type1/public/lm/lmtt9.pfb>
+Output written on Ruiz_Juan_CulturaDigitalYSociedad_B.pdf (6 pages, 365124 byte
+s).
+Transcript written on Ruiz_Juan_CulturaDigitalYSociedad_B.log.
+Latexmk: Getting log file 'Ruiz_Juan_CulturaDigitalYSociedad_B.log'
+Latexmk: Examining 'Ruiz_Juan_CulturaDigitalYSociedad_B.fls'
+Latexmk: Examining 'Ruiz_Juan_CulturaDigitalYSociedad_B.log'
+Latexmk: Log file says output to 'Ruiz_Juan_CulturaDigitalYSociedad_B.pdf'
+Latexmk: Log file says output to 'Ruiz_Juan_CulturaDigitalYSociedad_B.pdf'
+Latexmk: Using bibtex to make bibliography file(s).
+Latexmk: All targets (Ruiz_Juan_CulturaDigitalYSociedad_B.pdf) are up-to-date
+
